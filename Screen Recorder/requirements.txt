@@ -1,0 +1,5 @@
+pathvalidate==2.3.2
+PyAutoGUI==0.9.52
+plyer==2.0.0
+numpy==1.19.3
+opencv_python==4.4.0.46
